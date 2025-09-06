@@ -1,0 +1,32 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Geoquiz</string>
+
+    <!-- Toast Messages -->
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="judgment_toast">Judgment: Cheating is wrong!</string>
+
+    <!-- Questions -->
+    <string name="question_placeholder">Question Placeholder</string>
+    <string name="question_earth_flat">The Earth is flat.</string>
+    <string name="question_sky_blue">The sky is blue.</string>
+    <string name="question_mount_everest">Mount Everest is the tallest mountain in the world.</string>
+    <string name="question_canada_south">Canada is south of the United States.</string>
+    <string name="question_amazon_longest">The Amazon River is the longest river in the world.</string>
+    <string name="question_antarctica_country">Antarctica is a country.</string>
+    <string name="question_africa_countries">Africa has the most countries of any continent.</string>
+    <string name="question_greenland_independent">Greenland is an independent country.</string>
+    <string name="question_sahara_largest">The Sahara Desert is the largest desert in the world.</string>
+    <string name="question_seasons_equator">Seasons are the same on both sides of the equator.</string>
+
+    <!-- Buttons -->
+    <string name="cheat_button">Cheat</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+
+    <!-- CheatActivity -->
+    <string name="cheat_activity_label">Cheat</string>
+</resources>

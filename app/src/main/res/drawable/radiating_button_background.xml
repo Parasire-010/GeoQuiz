@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Outer Glow -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#222222" /> <!-- Base button color -->
+            <stroke android:width="8dp" android:color="#00FF00" /> <!-- Neon green border -->
+            <corners android:radius="12dp" /> <!-- Rounded corners -->
+        </shape>
+    </item>
+
+    <!-- Inner Glow -->
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#3300FF00"
+                android:endColor="#00FF00"
+                android:angle="45" >
+            </gradient>
+            <corners android:radius="12dp" />
+        </shape>
+    </item>
+</layer-list>
